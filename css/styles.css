@@ -1,4 +1,30 @@
+h1.intro {
+    font-weight: bold;
+    text-align: center;
+}
+
+h2.intro {
+    font-weight: bold;
+    text-align: center;
+}
+
 p.intro {
-    width: 50%;
     font-style: italic;
+}
+
+.author {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+img.intro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-family: Arial;
 }
